@@ -21,7 +21,7 @@ Para compilar el programa, usa el siguiente comando en la terminal:
 ```bash
 gcc -o rastreador rastreador.c syscall_map.c
 ```
-## 🚀 EJECUCIÓN 
+## 🦾 EJECUCIÓN 
 Muestra un menú para ver las 3 opciones de llamado.
 ```bash
 ./rastreador -h 
